@@ -1,0 +1,12 @@
+name: VipManager
+version: 0.0.1
+main: com.cswild.minecraft.vip.VipManager
+depend: [Vault]
+commands:
+  vipmanager:
+    description: Commands to manage your worlds
+    aliases: [vm]
+    usage: |
+      &2/vipmanager reload&f - Reload config
+      &2/vipmanager uuid&f - Show your's uuid
+      &2/vipmanager uuid &4<player>&f - Show player's uuid

@@ -1,0 +1,9 @@
+plugin_prefix: "[VM]"
+server_id: skyblock
+lang: pl-Pl
+database:
+  host: sql.pukawka.pl
+  user: 707027
+  password: cBgBu5DlKoeqIUb
+  name: 707027_vipmanager
+  port: 3306
